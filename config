@@ -1,0 +1,8 @@
+{
+    pages_dir   => app->home->rel_dir('pages'),
+    dump_dir    => app->home->rel_dir('dump'),
+    name        => "Doyle's Blog",
+    copyright   => 'Doyle Young',
+    cached      => 0,
+    perldoc     => 1,
+}
