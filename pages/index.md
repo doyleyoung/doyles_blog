@@ -1,6 +1,3 @@
-Title: Doyle's Blog
-
-
 JavaScript Ninja <time datetime="2013-05-10" pubdate>May 10th 2013</time>
 ----------------
 
