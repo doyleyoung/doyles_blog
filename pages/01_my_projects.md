@@ -20,6 +20,10 @@ navi_name: My Projects
 --------------------------
 [Play Store](https://play.google.com/store/apps/details?id=mobi.ritf.RightIntheFace_Ad)
 
+[This blog](http://doyleyoung.net)
+-----------
+[GitHub](https://github.com/doyleyoung/doyles_blog)
+
 - - -
 
 Work done for others
