@@ -1,3 +1,23 @@
+R Statistical Computing <time datetime="2013-05-31" pubdate>May 31st 2013</time>
+-----------------------
+
+While looking for a tool to analyze a large number of test results, I came
+across [R](http://www.r-project.org/).  Since I had read about it multiple times
+in the past, I decided to give it a shot.  So far it has save me from writing a
+number of one-off scripts and I have barely scratched the surface.  For
+instance, given a file containing transaction timings this produces mean,
+median, max and standard deviation:
+
+```
+cat trans_times.log | Rscript -e 'summary (as.numeric (readLines ("stdin")))'
+```
+
+Coincidentally, I was looking for a new [Coursera](https://www.coursera.org/)
+course and came across the
+[Computing for Data Analysis](https://www.coursera.org/course/compdata) course
+being offered by [Johns Hopkins University](http://www.jhu.edu/). Sometimes you
+just trip over exactly what you need.
+
 JavaScript Ninja <time datetime="2013-05-10" pubdate>May 10th 2013</time>
 ----------------
 
