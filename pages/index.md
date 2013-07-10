@@ -1,3 +1,20 @@
+FreeNAS <time datetime="2013-07-09" pubday>July 9th 2013</time>
+-------
+
+I have been very happy with my [FreeNAS](http://www.freenas.org) system and just
+updated it to the latest release.  It had been a while since I updated and they
+have added a plugin system based on BSD jails.  I installed a couple plugins
+and they have made they system more useful on my home network.
+[MiniDLNA](http://sourceforge.net/projects/freenas/files/FreeNAS-8.3.1/RELEASE-p2/x64/plugins/minidlna-1.0.24_1-amd64.pbi/download)
+is great for getting media on my PS3.
+[Transmission](http://sourceforge.net/projects/freenas/files/FreeNAS-8.3.1/RELEASE-p2/x64/plugins/transmission-2.77-amd64.pbi/download)
+makes torrent downloads available on the system they eventually end up on
+anyway.  I have recommended FreeNAS for a while, but these plugins make the
+system more useful and much more attractive for a personal development project.
+I will definitely be
+[writing my own](http://doc.freenas.org/index.php/Creating_your_own_FreeNAS%C2%AE_PBIs)
+module when I find an itch I need to scratch.
+
 R Statistical Computing <time datetime="2013-05-31" pubdate>May 31st 2013</time>
 -----------------------
 
