@@ -1,3 +1,14 @@
+Postman <time datetime="2013-07-15" pubday>July 15th 2013</time>
+-------
+
+[Postman](http://getpostman.com/) is my new favorite REST web service testing
+client.  It installs as a Chrome plugin and allows you to easily create a valid
+request.  Each request is saved and you can categorize your requests into
+collections.  It's also has a very well done interface that will format
+responses for you.  As if that wasn't enough, it's also open source and
+available on [GitHub](https://github.com/a85/POSTMan-Chrome-Extension/).  It
+will be part of my tool box for a long time to come.
+
 FreeNAS <time datetime="2013-07-09" pubday>July 9th 2013</time>
 -------
 
