@@ -1,3 +1,14 @@
+AnDevCon <time datetime="2013-08-23" pubday>August 23rd 2013</time>
+--------
+
+I just registered to attend [AnDevCon](http://www.andevcon.com/AndevCon_sanfrancisco/index.html)
+from November 12th - 15th.  I attended their first conference in March 2011 and
+really enjoyed the experience.  It was very useful at that point in time because
+good Android information was still hard to come by.  I am hoping that this time
+around the conference will be as informative and educational.  Even though I am
+not currently working on Android development professionally, I still really enjoy
+writing apps and believe this will be a very positive experience.
+
 Postman <time datetime="2013-07-15" pubday>July 15th 2013</time>
 -------
 
