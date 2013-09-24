@@ -1,3 +1,21 @@
+Diet Coda <time datetime="2013-09-23" pubday>September 23rd 2013</time>
+---------
+
+[Diet Coda](https://itunes.apple.com/us/app/diet-coda/id500906297?mt=8) has
+popped up a number of times recently and today I decided to pick it up. This
+post was written using it and the experience is really good given that I'm
+typing on the on-screen keyboard. This will definitely come in handy for
+tweaks to sites and other small changes, but I will most likely use it
+primarily as an ssh client. I considered grabbing
+[Prompt](https://itunes.apple.com/us/app/prompt/id421507115?mt=8) instead
+because that's it's purpose in life and decided the editor would be a nice
+addition. The bookmarks are slick and I already have my most import systems
+set up for quick connections. The editor works well with the touch interface
+and the only blip I've seen so far was when I changed orientation during
+editing. The file was saved and I didn't lose any work but I was worried for a
+few seconds. Overall, I would recommend it if would like to leave the house
+without your laptop and still be able to modify code and connect to servers. 
+
 AnDevCon <time datetime="2013-08-23" pubday>August 23rd 2013</time>
 --------
 
